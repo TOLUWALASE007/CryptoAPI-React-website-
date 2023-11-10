@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 
 ReactDOM.render(
-    <div className="main-body">
+    <div>
     <App />
     </div>,
     document.getElementById('root')
